@@ -98,7 +98,6 @@ private:
     TH2D * hPtDCAWeak;
     TH2D * hPtDCAMat;
     TH2D * hPtDCAall;    
-    TH2D * hPtInPrimParticle;
     
 	// KNO
 	TH1D * hPhiGen[3];
